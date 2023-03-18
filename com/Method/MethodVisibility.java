@@ -1,4 +1,4 @@
-package com.internJava;
+package com.Method;
 
 public class MethodVisibility  {
     public static void main(String[] args) {

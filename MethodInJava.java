@@ -1,4 +1,4 @@
-import com.internJava.MethodVisibility1;
+import com.Method.MethodVisibility1;
 
 public class MethodInJava extends MethodVisibility1 {
     /*
