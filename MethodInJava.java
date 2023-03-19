@@ -1,6 +1,6 @@
-import com.Method.MethodVisibility1;
+import com.Method.MethodVisibility;
 
-public class MethodInJava extends MethodVisibility1 {
+public class MethodInJava extends MethodVisibility {
     /*
     * Một method là một khối mã chỉ chạy khi nó được gọi.
     Bạn có thể truyền dữ liệu, được gọi là tham số, vào một method.

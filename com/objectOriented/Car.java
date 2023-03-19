@@ -40,5 +40,9 @@ public class Car extends Vehicle {
         Pig myPig = new Pig();  // Create a Pig object
         myPig.animalSound(); // The pig says: wee wee
         myPig.sleep(); // Zzz
+
+        Dog myDog = new Dog(); // Create a Pig object
+        myDog.animalSound();// The pig says:  goo goo
+        myDog.sleep();// Zzz
     }
 }
