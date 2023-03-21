@@ -1,4 +1,4 @@
-package com.collectionFramework;
+package com.basic.collection;
 
 public class Student implements Comparable<Student>{
     private int id;

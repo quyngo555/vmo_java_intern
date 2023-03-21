@@ -1,4 +1,4 @@
-package com.collectionFramework;
+package com.basic.collection;
 
 public class Vehicle {
     String make;
